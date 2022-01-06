@@ -1,0 +1,6 @@
+a=input("Enter the first number :")
+a=int(a)
+b=input("Enter the second number :")
+b=int(b)
+print("the sum of number is :",a+b)
+print("the product of number is:",a*b)
